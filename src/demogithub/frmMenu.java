@@ -65,6 +65,7 @@ public class frmMenu extends javax.swing.JFrame {
         // TODO add your handling code here:
         int nb = 17;
         JOptionPane.showMessageDialog(this, "La valeur de nb = "+ nb);
+        int i = 0;
     }//GEN-LAST:event_btnDemonstrationMouseClicked
 
     /**
